@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+#mainContainer{
+    height: 100%;
+    width: 100%;
+    background-color: #fff;
+}
+
+#nav{
+    text-align: center;
+    padding-top: 15px ;
+
+}
+
+#nav a{
+    text-decoration: none;
+    color: black;
+    margin: 80px;
+}
+
+
+#sweaters{
+    font-size: 330px;
+    margin-left: 65px;
+    padding-top: 10px;
+    font-weight: 400;
+    font-size: 350px;
+    letter-spacing: 9px;
+}
+
+#leftside{
+    font-size: large;
+    margin-left: 75px;
+    margin-top: -50px;
+}
+
+#leftside p{
+  width: 40%;
+}
+
+#Material{
+    padding-top: 15px;
+}
+
+#footer{
+    display: flex;
+    justify-content: space-between
+}
+
+#footer h3{
+    margin-top: 220px;
+    padding: 0 80px;
+}
+
+
+
+img{
+    position: absolute;
+    height: 309px;
+
+}
+
+#first{
+    height: 250px;
+    left: 1030px;
+    bottom: 180px;
+}
+
+#second{
+    left: 650px;
+    bottom: 150px;
+}
+
+#third{
+    left: 800px;
+    bottom: 220px;
+}
